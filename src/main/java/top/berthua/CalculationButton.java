@@ -34,6 +34,7 @@ public class CalculationButton extends JButton {
                     textField2.setText("="+re);
                 } catch (ScriptException ex) {
                     ex.printStackTrace();
+                    JOptionPane.showMessageDialog(parentFrame,ex.getMessage()+"\n无法解析的表达式","错误",0);
                 }
             }
         });
