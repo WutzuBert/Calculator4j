@@ -4,10 +4,17 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c2be03f1-d606-4d81-8a4b-88b3dc76e39b" name="变更" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/top/berthua/CalculationButton.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/top/berthua/CalculationButton.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/top/berthua/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/top/berthua/Main.java" afterDir="false" />
+    <list default="true" id="c2be03f1-d606-4d81-8a4b-88b3dc76e39b" name="变更" comment="2022/4/29">
+      <change beforePath="$PROJECT_DIR$/.gradle/7.1/executionHistory/executionHistory.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/7.1/executionHistory/executionHistory.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/7.1/executionHistory/executionHistory.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/7.1/executionHistory/executionHistory.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/7.1/fileHashes/fileHashes.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/7.1/fileHashes/fileHashes.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/7.1/fileHashes/fileHashes.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/7.1/fileHashes/fileHashes.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/top/berthua/CalculationButton$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/java/main/top/berthua/CalculationButton$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/top/berthua/CalculationButton.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/java/main/top/berthua/CalculationButton.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/top/berthua/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/java/main/top/berthua/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/libs/untitled22-1.0-SNAPSHOT.jar" beforeDir="false" afterPath="$PROJECT_DIR$/build/libs/untitled22-1.0-SNAPSHOT.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/tmp/compileJava/previous-compilation-data.bin" beforeDir="false" afterPath="$PROJECT_DIR$/build/tmp/compileJava/previous-compilation-data.bin" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -206,6 +213,14 @@
       <option name="presentableId" value="Default" />
       <updated>1649594380364</updated>
     </task>
+    <task id="LOCAL-00001" summary="2022/4/29">
+      <created>1651233419461</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1651233419461</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -225,5 +240,9 @@
       </map>
     </option>
     <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="2022/4/29" />
+    <option name="LAST_COMMIT_MESSAGE" value="2022/4/29" />
   </component>
 </project>
